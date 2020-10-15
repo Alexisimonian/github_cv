@@ -16,6 +16,12 @@ Travis CI <br>
 Heroku <br>
 AWS
 
+# Projects:
+Projects I have previously done:
+| [airbnb_clone] | [facebook_clone] | [SpotiPhyte] |
+|---|---|---|
+|Airbnb clone to show JS and Design capabilities. | Facebook clone to show Ruby on Rails and PSQL capabilities. | Final project at Makers Academy. SpotiPhyte is an entertaining music app that works with Spotify.|
+
 # Education
 
 ### Makers Academy
@@ -35,3 +41,8 @@ Paris - 2019 - 6mo.
 
 ### Hanson Search/ The Work Crowd - PR and Marketing Intern
 London - 2018 - 2mo.
+
+
+[airbnb_clone]: https://github.com/Alexisimonian/airbnb_clone_JS-CSS
+[facebook_clone]: https://github.com/Alexisimonian/acebook_Ruby-PSQL
+[SpotiPhyte]: https://github.com/Alexisimonian/spotiphyte_JS-AJAX-API
