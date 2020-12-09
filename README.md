@@ -18,9 +18,9 @@ AWS
 
 # Projects:
 Projects I have previously done:
-| [airbnb_clone] | [facebook_clone] | [SpotiPhyte] |
-|---|---|---|
-|Airbnb clone to show JS and Design capabilities. | Facebook clone to show Ruby on Rails and PSQL capabilities. | Final project at Makers Academy. SpotiPhyte is an entertaining music app that works with Spotify.|
+| [airbnb_clone] | [SpotiPhyte] |
+|---|---|
+|Airbnb clone to show JS and Design capabilities. | Final project at Makers Academy. SpotiPhyte is an entertaining music app that works with Spotify.|
 
 # Education
 
